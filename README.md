@@ -17,3 +17,5 @@ Feedback is certainly welcome :)
 - Jeremy Cartier [@jcartier](https://twitter.com/jcartier)
 - Brendon Roberto [@brebory](https://twitter.com/brebory)
 - Brian Schachter [@262Hz](https://github.com/262hz)
+
+changed
